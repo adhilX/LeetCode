@@ -7,10 +7,12 @@
 | [0001-two-sum](https://github.com/adhilX/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/adhilX/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/adhilX/LeetCode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/adhilX/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adhilX/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/adhilX/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +53,16 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/adhilX/LeetCode/tree/master/0100-same-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adhilX/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adhilX/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adhilX/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
