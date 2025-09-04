@@ -15,4 +15,12 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/adhilX/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/adhilX/LeetCode/tree/master/0066-plus-one) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adhilX/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adhilX/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
