@@ -28,4 +28,20 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adhilX/LeetCode/tree/master/0035-search-insert-position) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/adhilX/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/adhilX/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/adhilX/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/adhilX/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
