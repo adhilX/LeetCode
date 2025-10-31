@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adhilX/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/adhilX/LeetCode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/adhilX/LeetCode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/adhilX/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adhilX/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhilX/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -93,10 +94,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/adhilX/LeetCode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adhilX/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhilX/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/adhilX/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhilX/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
