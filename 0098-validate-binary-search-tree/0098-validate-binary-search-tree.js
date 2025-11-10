@@ -11,32 +11,23 @@
  * @return {boolean}
  */
 var isValidBST = function(root) {
-
-    function valide(root, min ,max){
-if(!root)return true
-    if(root.val <= min || root.val >= max) return false
-   
-
-    return valide(root.right, root.val, max) && valide(root.left,min , root.val)
-    }
     
-    return valide(root , -Infinity, Infinity)
+    if(!root) return true
+  let prev = null
+  let  result = true 
+    function inorder(root){
+          
+    if(!root) return true
+     inorder(root.left)
+        if(prev){
+           if(prev.val >= root.val){
+            result = false
+            return 
+           }
+        }
+        prev = root
+        inorder(root.right)
+    }
+    inorder(root)
+   return result
 };
-
-// var isValidBST = function(root) {
-// let arr=[]
-//     function inorder(root){
-//      if(!root)return
-//     inorder(root.left)
-//     arr.push(root.val)
-//     inorder(root.right)
-
-//     }
-//      inorder(root)
-
-//     for(let i =0 ; i < arr.length-1 ; i++){
-//         if(arr[i]>= arr[i+1] )return false
-//     }
-//     return true
-// }
-
