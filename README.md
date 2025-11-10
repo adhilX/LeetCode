@@ -52,6 +52,7 @@
 | [0101-symmetric-tree](https://github.com/adhilX/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/adhilX/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adhilX/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/adhilX/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -61,11 +62,13 @@
 | [0133-clone-graph](https://github.com/adhilX/LeetCode/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/adhilX/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adhilX/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/adhilX/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adhilX/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adhilX/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/adhilX/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 | [0101-symmetric-tree](https://github.com/adhilX/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/adhilX/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adhilX/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/adhilX/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -81,6 +85,7 @@
 | [0101-symmetric-tree](https://github.com/adhilX/LeetCode/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/adhilX/LeetCode/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/adhilX/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/adhilX/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
