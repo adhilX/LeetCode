@@ -9,7 +9,7 @@ let arr = []
   const min = Math.min(...nums)
 
 
-for(let i = min ;i<= max ; i++){
+for(let i = min+1 ;i< max ; i++){
   if (!nums.includes(i))arr.push(i);
 }
 
