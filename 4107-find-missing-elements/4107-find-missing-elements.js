@@ -4,15 +4,13 @@
  */
 var findMissingElements = function(nums) {
     
+let arr = []
   const max = Math.max(...nums)
   const min = Math.min(...nums)
 
-let arr = []
 
 for(let i = min ;i<= max ; i++){
-  if (!nums.includes(i)) {
-      arr.push(i);
-    }
+  if (!nums.includes(i))arr.push(i);
 }
 
 return arr
