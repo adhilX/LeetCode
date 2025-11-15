@@ -30,6 +30,7 @@
 | [0009-palindrome-number](https://github.com/adhilX/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/adhilX/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/adhilX/LeetCode/tree/master/0189-rotate-array) |
+| [2812-find-the-maximum-achievable-number](https://github.com/adhilX/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Linked List
 |  |
 | ------- |
