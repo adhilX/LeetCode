@@ -105,12 +105,14 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adhilX/LeetCode/tree/master/0169-majority-element) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/adhilX/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/adhilX/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/adhilX/LeetCode/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adhilX/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/adhilX/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/adhilX/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Graph
 |  |
@@ -132,6 +134,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/adhilX/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhilX/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/adhilX/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## String Matching
 |  |
 | ------- |
