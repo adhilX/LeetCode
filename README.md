@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/adhilX/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adhilX/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/adhilX/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/adhilX/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [4107-find-missing-elements](https://github.com/adhilX/LeetCode/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/adhilX/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/adhilX/LeetCode/tree/master/0389-find-the-difference) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/adhilX/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Graph
 |  |
 | ------- |
@@ -128,4 +130,8 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/adhilX/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhilX/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/adhilX/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
