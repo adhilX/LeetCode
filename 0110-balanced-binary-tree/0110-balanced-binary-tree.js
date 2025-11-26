@@ -12,19 +12,14 @@
  */
 var isBalanced = function(root) {
     
-   return  check(root) != -1
+    if(!root)return 1
+   const right = isBalanced(root.right)
+    const left = isBalanced(root.left)
+
+   if(left === false || right === false)return false
 
 
-function check(root){
-    if(!root)return 0
-   const right = check(root.right)
-    const left = check(root.left)
-
-   if(left === -1 || right === -1)return -1
-
-
-   if(Math.abs(left-right)> 1)return -1
+   if(Math.abs(left-right)> 1)return false
 
     return Math.max(right,left)+1
 };
-}
