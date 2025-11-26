@@ -35,12 +35,14 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adhilX/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/adhilX/LeetCode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adhilX/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adhilX/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adhilX/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0148-sort-list](https://github.com/adhilX/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/adhilX/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/adhilX/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/adhilX/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -95,10 +97,12 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/adhilX/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adhilX/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/adhilX/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adhilX/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/adhilX/LeetCode/tree/master/0389-find-the-difference) |
 | [4107-find-missing-elements](https://github.com/adhilX/LeetCode/tree/master/4107-find-missing-elements) |
@@ -140,4 +144,8 @@
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/adhilX/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/adhilX/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
