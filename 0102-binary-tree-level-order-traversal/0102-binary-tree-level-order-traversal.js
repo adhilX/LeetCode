@@ -6,7 +6,6 @@
  *     this.right = (right===undefined ? null : right)
  * }
  */
- 
 /**
  * @param {TreeNode} root
  * @return {number[][]}
@@ -21,7 +20,7 @@ var levelOrder = function(root) {
         let size = queue.length;
         let level = [];
 
-        for (let i = 0; i < size; i++) {  
+        for (let i = 0; i < size; i++) {   
             let node = queue.shift();
             level.push(node.val);
 
