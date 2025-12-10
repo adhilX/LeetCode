@@ -46,6 +46,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/adhilX/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/adhilX/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/adhilX/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/adhilX/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adhilX/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Binary Search
 |  |
@@ -130,6 +131,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/adhilX/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/adhilX/LeetCode/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/adhilX/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adhilX/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/adhilX/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/adhilX/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
