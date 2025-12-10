@@ -22,6 +22,7 @@ var compress = function(chars) {
      }
      i = j
         }
-    
+    chars.length = write;
+
     return write
 };
