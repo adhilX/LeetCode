@@ -20,10 +20,10 @@ var reformatDate = function (date) {
         "Dec": '12'
     }
 
-  let day = arr[0].slice(0, -2).padStart(2,'0')
-  let year = arr[2]
-  let mon = month[arr[1]]
+    let day = arr[0].slice(0, -2).padStart(2, '0')
+    let year = arr[2]
+    let mon = month[arr[1]]
 
-   return `${year}-${mon}-${day}`
+    return `${year}-${mon}-${day}`
 
 };
