@@ -12,16 +12,18 @@
  * @return {number}
  */
 var kthSmallest = function(root, k) {
-    
- function ff(root,result=[]){
+    let small = null
+ function ff(root){
     if(root){
-        ff(root.left,result)
-        result.push(root.val)
-        ff(root.right, result)
-    }
-    return result
- }
-    let finel = ff(root)
-    return finel[k-1] 
+        ff(root.left)
+        k--
+        if(k==0){
+        small = root.val      
+        } 
 
+        ff(root.right)
+    }
+ }
+     ff(root)
+    return small
 };
