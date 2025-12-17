@@ -9,6 +9,7 @@
 | [0045-jump-game-ii](https://github.com/adhilX/LeetCode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/adhilX/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adhilX/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhilX/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adhilX/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhilX/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/adhilX/LeetCode/tree/master/0169-majority-element) |
@@ -60,6 +61,7 @@
 | [0100-same-tree](https://github.com/adhilX/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adhilX/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adhilX/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhilX/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/adhilX/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/adhilX/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/adhilX/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adhilX/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhilX/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adhilX/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adhilX/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
@@ -92,6 +95,7 @@
 | [0100-same-tree](https://github.com/adhilX/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adhilX/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adhilX/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhilX/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/adhilX/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/adhilX/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/adhilX/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -112,6 +116,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhilX/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/adhilX/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adhilX/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
