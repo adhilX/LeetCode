@@ -14,6 +14,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhilX/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/adhilX/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adhilX/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/adhilX/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/adhilX/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/adhilX/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [4107-find-missing-elements](https://github.com/adhilX/LeetCode/tree/master/4107-find-missing-elements) |
@@ -23,6 +24,7 @@
 | [0001-two-sum](https://github.com/adhilX/LeetCode/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/adhilX/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/adhilX/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/adhilX/LeetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/adhilX/LeetCode/tree/master/0389-find-the-difference) |
 | [4107-find-missing-elements](https://github.com/adhilX/LeetCode/tree/master/4107-find-missing-elements) |
 ## Math
@@ -124,6 +126,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/adhilX/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adhilX/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/adhilX/LeetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/adhilX/LeetCode/tree/master/0389-find-the-difference) |
 | [4107-find-missing-elements](https://github.com/adhilX/LeetCode/tree/master/4107-find-missing-elements) |
 ## Counting
